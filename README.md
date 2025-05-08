@@ -1,6 +1,6 @@
 # :house_with_garden: Homelab Nix OS :snowflake:
 
-A test repository for Nix OS
+A test repository for [Nix OS][1]
 
 ---
 
@@ -14,5 +14,5 @@ A test repository for Nix OS
 
 This project was started in 2025 by [Nicholas Wilde][2].
 
-[1]: <https://docs.ansible.com/ansible/latest/cli/ansible-pull.html>
+[1]: <https://nixos.org/>
 [2]: <https://github.com/nicholaswilde/>

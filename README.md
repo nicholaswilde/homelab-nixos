@@ -4,6 +4,16 @@ A test repository for [Nix OS][1]
 
 ---
 
+## :pushpin: TL;DR
+
+WIP
+
+---
+
+
+
+---
+
 ## :balance_scale: License
 
 [Apache License 2.0](./LICENSE)

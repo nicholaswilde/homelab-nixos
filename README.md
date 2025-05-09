@@ -1,6 +1,6 @@
-# :house_with_garden: Homelab Nix OS :snowflake:
+# :house_with_garden: Homelab NixOS :snowflake:
 
-A test repository for [Nix OS][1]
+A test repository for [NixOS][1]
 
 ---
 
